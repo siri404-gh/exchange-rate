@@ -131,7 +131,7 @@
     "caniuse-db": "^1.0.30001002",
     "puppeteer": "^1.17.0",
     "puppeteer-core": "^1.17.0",
-    "sharp": "^0.23.1"
+    "sharp": "^0.30.5"
   },
   "jest": {
     "testPathIgnorePatterns": [
