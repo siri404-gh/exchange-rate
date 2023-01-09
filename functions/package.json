@@ -15,7 +15,7 @@
     "body-parser": "^1.19.0",
     "classnames": "^2.2.6",
     "express": "^4.17.1",
-    "firebase-admin": "^6.0.0",
+    "firebase-admin": "^11.4.1",
     "firebase-functions": "^3.3.0",
     "fs": "0.0.1-security",
     "ignore-styles": "^5.0.1",
